@@ -28,20 +28,25 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/134567-mile ">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=134567-mile&show_icons=true&theme=radical&include_all_commits=true&count_private=true " alt="GitHub Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=134567-mile&layout=compact&langs_count=8&theme=radical " alt="Top Languages">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/134567-mile">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=134567-mile&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs" alt="GitHub Stats">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=134567-mile&layout=compact&langs_count=8&theme=radical&hide=html" alt="Top Languages">
   </a>
+  <br><br>
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=134567-mile&theme=radical" alt="GitHub Streak Stats" />
+
+  <!-- GitHub Visitors Badge -->
+  <br><br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=134567-mile.134567-mile&left_color=blue&right_color=green" alt="Visitors" />
+  
+  <!-- GitHub Activity Graph -->
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=134567-mile&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=134567-mile&theme=radical " alt="GitHub Streak Stats" />
-</div>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=134567-mile.134567-mile&left_color=blue&right_color=green )
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=134567-mile&theme=react-dark )
-
----
 
 ## 🌟 Featured Projects
 
