@@ -97,4 +97,3 @@ pie title Weekly Activity
     "Sleep" : 5
 
 </div>
-<div align="center"> <a href="https://github.com/134567-mile"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=134567-mile&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=134567-mile&layout=compact&langs_count=8&theme=nightowl"/> </a> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=134567-mile&theme=nightowl&background=0D1117" alt="Cosmic Streaks"/> </div>
