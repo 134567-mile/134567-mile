@@ -47,6 +47,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=134567-mile&theme=react-dark" alt="GitHub Activity Graph" />
 </div>
 
+---
 
 ## 🌟 Featured Projects
 
