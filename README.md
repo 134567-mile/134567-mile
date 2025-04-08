@@ -1,20 +1,23 @@
 <div align="center">
-  
+  <img src="https://raw.githubusercontent.com/134567-mile/134567-mile/master/profile.png" alt="Profile Picture" width="200" height="200">
+  <h1>✨ Welcome to My GitHub Universe ✨</h1>
+</div>
+
 # ✨ Welcome to My GitHub Universe ✨
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=58A6FF&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI%2FML+Explorer;Problem+Solver)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourname)
-
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://medium.com/@yourname"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -26,13 +29,13 @@
 
 <div align="center">
   <a href="https://github.com/134567-mile">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=134567-mile&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=134567-mile&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=134567-mile&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=134567-mile&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=134567-mile&theme=radical" alt="134567-mile" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=134567-mile&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=134567-mile.134567-mile&left_color=blue&right_color=green)
@@ -56,13 +59,9 @@
 ---
 
 <div align="center">
-  
-![GitHub Snake Animation](https://github.com/134567-mile/134567-mile/blob/output/github-contribution-grid-snake.svg)
-
-**"First, solve the problem. Then, write the code."** - John Johnson
-
+  <img src="https://github.com/134567-mile/134567-mile/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <p><strong>"First, solve the problem. Then, write the code."</strong> - John Johnson</p>
 </div>
-
 
 
 
