@@ -49,20 +49,6 @@
 
 ---
 
-## 🎧 Currently Coding With
-
-[![Spotify](https://novatorem.vercel.app/api/spotify )](https://open.spotify.com/user/yourprofile )
-
----
-
-<div align="center">
-  
-![GitHub Snake Animation](https://github.com/134567-mile/134567-mile/blob/output/github-contribution-grid-snake.svg )
-
-**"First, solve the problem. Then, write the code."** - John Johnson
-
-</div>
-
 <div align="center">
   
 # ✨ Cosmic Coder's Galaxy ✨
@@ -95,5 +81,3 @@ pie title Weekly Activity
     "Debugging" : 30
     "Coffee" : 20
     "Sleep" : 5
-
-</div>
